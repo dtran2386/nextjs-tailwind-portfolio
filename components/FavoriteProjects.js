@@ -54,14 +54,14 @@ export default function FavoriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://placeholdertech.in"
+            href="https://react-netflix-ui.netlify.app/"
             className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
           >
             <div className="relative overflow-hidden">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/placeholdertech.png"
-                alt="portfolio"
+                src="/netflix-ui.png"
+                alt="netflix ui"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">

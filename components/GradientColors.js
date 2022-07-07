@@ -7,13 +7,12 @@ export const GradientColors = ({ color, children }) => {
 
   return (
     <RoughNotation
-      type="underline"
+      type="highlight"
       multiline={true}
-      padding={[18, 2]}
+      padding={[0, 2]}
       iterations={1}
       animationDuration={animationDuration}
       color={color}
-      strokeWidth={3}
     >
       {children}
     </RoughNotation>

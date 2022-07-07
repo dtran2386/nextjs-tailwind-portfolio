@@ -13,9 +13,9 @@ const userData = {
       imgUrl: "/tmk.jpg",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Netflix UI",
+      link: "https://react-netflix-ui.netlify.app",
+      imgUrl: "/netflix-ui.png",
     },
     {
       title: "React Portfolio",
