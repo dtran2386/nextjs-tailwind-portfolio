@@ -37,6 +37,7 @@ export default function FavoriteProjects() {
           <a
             href="https://reactweatherapp11.netlify.app"
             className="w-full block col-span-3 shadow-2xl"
+            target="_blank"
           >
             <div className="relative overflow-hidden">
               <img
@@ -56,6 +57,7 @@ export default function FavoriteProjects() {
           <a
             href="https://react-netflix-ui.netlify.app/"
             className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
+            target="_blank"
           >
             <div className="relative overflow-hidden">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
@@ -74,18 +76,19 @@ export default function FavoriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://manuarora.in"
+            href="https://dtran-nextjs-blog.netlify.app/"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
+            target="_blank"
           >
             <div className="relative overflow-hidden shadow-2xl">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/portfolio.png"
-                alt="portfolio"
+                src="/next-blog.png"
+                alt="blog"
                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                Portfolio
+                Next.js Blog
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 03

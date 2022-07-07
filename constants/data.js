@@ -28,24 +28,9 @@ const userData = {
       imgUrl: "/weather-app.png",
     },
     {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
+      title: "Next.js Blog",
+      link: "https://dtran-nextjs-blog.netlify.app/",
+      imgUrl: "/next-blog.png",
     },
   ],
   about: {

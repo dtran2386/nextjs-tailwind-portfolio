@@ -4,7 +4,7 @@ import { GradientColors } from "./GradientColors";
 import userData from "@constants/data";
 
 export default function Hero() {
-  const colors = ["#4287f5", "#6042f5", "#f542da", "#f54272"];
+  const colors = ["#00ccfd", "#ff34b3", "#2011a2", "#201148"];
   return (
     <div className="flex flex-row justify-center items-start overflow-hidden">
       {/* Text container */}
