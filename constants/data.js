@@ -20,12 +20,12 @@ const userData = {
     {
       title: "React Portfolio",
       link: "https://dtran-react-portfolio.netlify.app",
-      imgUrl: "/react-portfolio.png",
+      imgUrl: "/react-minimal-portfolio.png",
     },
     {
       title: "React Weather App",
       link: "https://reactweatherapp11.netlify.app/",
-      imgUrl: "/react-weather-app.png",
+      imgUrl: "/weather-app.png",
     },
     {
       title: "Algochurn",

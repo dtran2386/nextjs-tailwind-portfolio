@@ -40,7 +40,7 @@ export default function FavoriteProjects() {
           >
             <div className="relative overflow-hidden">
               <img
-                src="/react-weather-app.png"
+                src="/weather-app.png"
                 alt="weather app"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
@@ -65,7 +65,7 @@ export default function FavoriteProjects() {
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                PlaceholderTech
+                Netflix UI
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 02
