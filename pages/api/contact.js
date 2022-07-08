@@ -1,8 +1,6 @@
-require("dotenv").config();
-
 let nodemailer = require("nodemailer");
 
-const password = process.env.GMAIL_APP_PASSWORD;
+const password = process.env.NEXT_PUBLIC_GMAIL_APP_PASSWORD;
 
 export default function (req, res) {
   console.log("body", req.body);
