@@ -8,9 +8,9 @@ const userData = {
   address: "Charlotte, NC",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "Instagram UI",
+      link: "https://nextagram-dtran2386.vercel.app/",
+      imgUrl: "/nextagram.png",
     },
     {
       title: "Netflix UI",
